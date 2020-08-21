@@ -7,5 +7,5 @@
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My favorite movie is Mulan 🐉
 
-#### My code activity in the last 30 days
+#### My code activity
 <img src="https://wakatime.com/share/@f48b3781-2ae6-4e75-957a-67446f9892f4/e2f9752a-6d32-407a-8da8-94655d7cee3c.svg" width="60%"></img>
