@@ -8,4 +8,4 @@
 - ⚡ Fun fact: My favorite movie is Mulan 🐉
 
 #### My code activity
-<img src="https://wakatime.com/share/@f48b3781-2ae6-4e75-957a-67446f9892f4/e2f9752a-6d32-407a-8da8-94655d7cee3c.svg" width="60%"></img>
+<img src="https://wakatime.com/share/@f48b3781-2ae6-4e75-957a-67446f9892f4/cc6a5c65-1375-4a67-8132-8539d90989fd.svg" width="60%"></img>
